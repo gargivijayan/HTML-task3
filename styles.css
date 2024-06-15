@@ -1,0 +1,40 @@
+header{
+    background-color: brown;
+    color:white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    
+}
+main{
+    width:600px;
+    border:5px solid red;
+    margin: auto;
+    background-color: bisque;
+}
+
+footer{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 25px;
+}
+
+
+img{
+    width: 150px;
+    margin:auto;
+    display: block;
+}
+
+p{
+    padding:10px;
+    
+}
+
+
+
+
